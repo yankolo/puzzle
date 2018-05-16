@@ -1,0 +1,1 @@
+The Sliding Puzzle was the second project in the JavaScript course in Dawson College. The goal was to recreate a 4x4 sliding puzzle game where the player can play the game, choose their category, save the game, submit their score, etc.
