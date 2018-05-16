@@ -1,0 +1,1 @@
+game_images/animals/1.jpg,game_images/animals/2.jpg,game_images/animals/3.jpg,game_images/animals/4.jpg,game_images/animals/5.jpg,game_images/animals/6.jpg

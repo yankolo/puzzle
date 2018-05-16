@@ -1,0 +1,1 @@
+game_images/architecture/1.jpg,game_images/architecture/2.jpg,game_images/architecture/3.jpg,game_images/architecture/4.jpg,game_images/architecture/5.jpg,game_images/architecture/6.jpg

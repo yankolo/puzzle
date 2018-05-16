@@ -1,0 +1,1 @@
+game_images/nature/1.jpg,game_images/nature/2.jpg,game_images/nature/3.jpg,game_images/nature/4.jpg,game_images/nature/5.jpg,game_images/nature/6.jpg

@@ -1,0 +1,1 @@
+game_images/food/1.jpg,game_images/food/2.jpg,game_images/food/3.jpg,game_images/food/4.jpg,game_images/food/5.jpg,game_images/food/6.jpg
